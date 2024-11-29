@@ -19,9 +19,9 @@ public class Scene3 : MonoBehaviour
     //change
     private string[] storyLines = {
         "*knock on the door*",
-        "Eli opened the door and saw Naib",
-        "Act Natural. Someone’s here",
-        "Eli lets Naib inside",
+        "Eli hears a knock, sets his book aside, and cautiously opens the door to find Naib standing there, his eyes sharp and scanning the surroundings. Dressed in slightly disheveled clothes, Naib looks tense, his presence immediately unsettling.",
+        "Leaning closer, Naib whispers urgently, “Act natural. Someone’s here,” his tone calm but laced with urgency, before stepping back and straightening his posture.\n",
+        "Eli lets Naib inside, his nerves on edge as he closes the door behind him, only for another knock to echo through the room. Taking a deep breath, he opens the door again, coming face-to-face with the serial killer, whose cold, menacing smile freezes him in place.\n",
         "*knock on the door*",
         "Eli takes a deep breath before opening the door. The serial killer stood at the doorstep.",
         "Eli asks the serial killer: “May I help you?” to which the killer replies, “Is your friend inside?”.",
